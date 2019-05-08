@@ -1,0 +1,35 @@
+[I 06:51:40.736 NotebookApp] Writing notebook server cookie secret to /Users/copa/Library/Jupyter/runtime/notebook_cookie_secret
+[I 06:51:42.150 NotebookApp] Serving notebooks from local directory: /Users/copa/Documents/copa/learn/kaggle-housing-prediction
+[I 06:51:42.150 NotebookApp] The Jupyter Notebook is running at:
+[I 06:51:42.150 NotebookApp] http://localhost:8888/?token=613e55c10086842b10cd4fe3f366e621df3dc014947c55b6
+[I 06:51:42.150 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 06:51:42.166 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/copa/Library/Jupyter/runtime/nbserver-12390-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=613e55c10086842b10cd4fe3f366e621df3dc014947c55b6
+[I 06:51:58.553 NotebookApp] Writing notebook-signing key to /Users/copa/Library/Jupyter/notebook_secret
+[W 06:51:58.561 NotebookApp] Notebook house_price_prediction.ipynb is not trusted
+[I 06:51:59.441 NotebookApp] Kernel started: d8162e3c-3d74-4af6-b021-1f7c1f3f8beb
+[I 06:52:07.180 NotebookApp] Adapting to protocol v5.1 for kernel d8162e3c-3d74-4af6-b021-1f7c1f3f8beb
+[I 06:53:59.434 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 06:57:59.457 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 06:59:59.432 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:01:59.445 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:03:59.445 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:05:59.453 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:07:59.461 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:09:59.472 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:11:59.467 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:13:59.474 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:15:59.477 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:17:59.481 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:19:59.491 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:21:59.499 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:23:59.496 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:25:59.497 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:27:07.533 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:33:04.321 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:35:04.327 NotebookApp] Saving file at /house_price_prediction.ipynb
+[I 07:37:04.333 NotebookApp] Saving file at /house_price_prediction.ipynb
