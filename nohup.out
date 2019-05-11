@@ -33,3 +33,6 @@
 [I 07:33:04.321 NotebookApp] Saving file at /house_price_prediction.ipynb
 [I 07:35:04.327 NotebookApp] Saving file at /house_price_prediction.ipynb
 [I 07:37:04.333 NotebookApp] Saving file at /house_price_prediction.ipynb
+[C 21:50:25.088 NotebookApp] received signal 15, stopping
+[I 21:50:25.115 NotebookApp] Shutting down 1 kernel
+[I 21:50:26.473 NotebookApp] Kernel shutdown: d8162e3c-3d74-4af6-b021-1f7c1f3f8beb
